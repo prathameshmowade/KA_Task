@@ -1,11 +1,10 @@
-# Kiran Academy Tasks (`KA_Task`)
+# Kiran Academy Tasks (\KA_Task\)
 
 This repository contains daily programming assignments and practice tasks completed at Kiran Academy.
 
 ## Directory Structure
 
-```
-KA_Task/
+\KA_Task/
 ├── day 5-10-26/
 │   ├── task1_hello_world.py
 │   ├── task2_profit_loss.py
@@ -23,13 +22,12 @@ KA_Task/
 │   ├── Division.java
 │   ├── Modulus.java
 │   └── README.md
-├── task 14-10-2026/
+├── task on 13-10-2026/
 │   ├── ShoppingBill.java
 │   ├── shopping_bill.py
 │   └── README.md
 └── README.md
-```
-
+\
 ## Daily Tasks
 
 - [**Day 5-10-26**](./day%205-10-26/README.md)
@@ -47,5 +45,5 @@ KA_Task/
   5. Division of Two Variables
   6. Modulus of Two Variables
 
-- [**Task 14-10-2026 (Shopping Bill)**](./task%2014-10-2026/README.md)
-  - Task 01: Shopping Bill — GST First, Discount After (Java & Python)
+- [**Task on 13-10-2026 (Shopping Bill)**](./task%20on%2013-10-2026/README.md)
+  - Task 01: Shopping Bill - GST First, Discount After (Java & Python)
