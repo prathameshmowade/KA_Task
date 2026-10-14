@@ -2,18 +2,19 @@
 
 **Student Name:** Prathamesh Mowade  
 **Course:** Kiran Academy  
+**Track:** Java  
 **Deadline:** 14 October 2026, 11:59 PM  
 
 ---
 
 ## 1. Problem Statement
-Create the same shopping bill program in **Java** and **Python**. Five item amounts \, b, c, d, e\ are supplied directly as method/function arguments without using \Scanner\, \input()\, or any other input-taking code. Every calculation method/function returns its calculated amount, and the main calculation method returns the final payable amount.
+Create the shopping bill program in **Java**. Five item amounts \, b, c, d, e\ are supplied directly as method arguments without using \Scanner\ or any other input-taking code. Every calculation method returns its calculated amount, and the main calculation method returns the final payable amount.
 
 ---
 
 ## 2. Calculation Flow
 
-| Step | Method / Function | Description | Sample Calculation (a=b=c=d=e=100) | Return Value |
+| Step | Method | Description | Sample Calculation (a=b=c=d=e=100) | Return Value |
 |:---:|:---|:---|:---|:---:|
 | **1** | \calculateElectronicsGST(a, b)\ | Add \ + b\, then add 18% GST | \(100 + 100) + 18% = 200 + 36\ | **236.00** |
 | **2** | \calculateFashionGST(c, d)\ | Add \c + d\, then add 13% GST | \(100 + 100) + 13% = 200 + 26\ | **226.00** |
@@ -50,14 +51,9 @@ Total after GST = 569.00 | Discount = 113.80 | Final payable amount = 455.20
 \
 ---
 
-## 5. How to Run
+## 5. How to Compile & Run
 
-### Java
 \\ash
 javac ShoppingBill.java
 java ShoppingBill
-\
-### Python
-\\ash
-python shopping_bill.py
 \

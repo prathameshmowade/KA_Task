@@ -24,7 +24,6 @@ This repository contains daily programming assignments and practice tasks comple
 │   └── README.md
 ├── task on 13-10-2026/
 │   ├── ShoppingBill.java
-│   ├── shopping_bill.py
 │   └── README.md
 └── README.md
 \
@@ -46,4 +45,4 @@ This repository contains daily programming assignments and practice tasks comple
   6. Modulus of Two Variables
 
 - [**Task on 13-10-2026 (Shopping Bill)**](./task%20on%2013-10-2026/README.md)
-  - Task 01: Shopping Bill - GST First, Discount After (Java & Python)
+  - Task 01: Shopping Bill - GST First, Discount After (Java)
