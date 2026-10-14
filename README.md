@@ -6,24 +6,28 @@ This repository contains daily programming assignments and practice tasks comple
 
 ```
 KA_Task/
-+-- day 5-10-26/
-�   +-- task1_hello_world.py
-�   +-- task2_profit_loss.py
-�   +-- task3_even_odd.py
-�   +-- task4_voting_eligibility.py
-�   +-- task5_anagram.py
-�   +-- solutions_simple.py
-�   +-- README.md
-+-- set up 13-10-2026/
-�   +-- Hello.java
-�   +-- HelloWorld.java
-�   +-- Addition.java
-�   +-- Difference.java
-�   +-- Multiplication.java
-�   +-- Division.java
-�   +-- Modulus.java
-�   +-- README.md
-+-- README.md
+├── day 5-10-26/
+│   ├── task1_hello_world.py
+│   ├── task2_profit_loss.py
+│   ├── task3_even_odd.py
+│   ├── task4_voting_eligibility.py
+│   ├── task5_anagram.py
+│   ├── solutions_simple.py
+│   └── README.md
+├── set up 13-10-2026/
+│   ├── Hello.java
+│   ├── HelloWorld.java
+│   ├── Addition.java
+│   ├── Difference.java
+│   ├── Multiplication.java
+│   ├── Division.java
+│   ├── Modulus.java
+│   └── README.md
+├── task 14-10-2026/
+│   ├── ShoppingBill.java
+│   ├── shopping_bill.py
+│   └── README.md
+└── README.md
 ```
 
 ## Daily Tasks
@@ -42,3 +46,6 @@ KA_Task/
   4. Multiplication of Two Variables
   5. Division of Two Variables
   6. Modulus of Two Variables
+
+- [**Task 14-10-2026 (Shopping Bill)**](./task%2014-10-2026/README.md)
+  - Task 01: Shopping Bill — GST First, Discount After (Java & Python)
