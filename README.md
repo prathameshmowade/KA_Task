@@ -25,6 +25,9 @@ This repository contains daily programming assignments and practice tasks comple
 ├── task on 13-10-2026/
 │   ├── ShoppingBill.java
 │   └── README.md
+├── chat bot/
+│   ├── CabBookingChatbot.java
+│   └── README.md
 └── README.md
 \
 ## Daily Tasks
@@ -46,3 +49,6 @@ This repository contains daily programming assignments and practice tasks comple
 
 - [**Task on 13-10-2026 (Shopping Bill)**](./task%20on%2013-10-2026/README.md)
   - Task 01: Shopping Bill - GST First, Discount After (Java)
+
+- [**Task on 16-10-2026 (Cab Booking Chatbot)**](./chat%20bot/README.md)
+  - Task 02: Cab Booking Chatbot — Menu, Fare & OTP Rules (Java)
